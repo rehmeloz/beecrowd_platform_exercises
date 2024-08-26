@@ -1026,6 +1026,7 @@ for(int i = 0; i < numeroDeCasos; i++)
 */
 
 /*
+// 1117
 List<double> notasSeparadas = new List<double>();
 
 while(true)
