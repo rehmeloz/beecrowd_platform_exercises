@@ -961,6 +961,7 @@ for(int i = 0; i < resultados.Length; i++)
 }
 */
 
+/*
 // 1113
 while(true)
 {
@@ -981,3 +982,22 @@ else
      Console.WriteLine("Decrescente");
 }
 }
+*/
+
+// 1114
+while(true)
+{
+    int senha = int.Parse(Console.ReadLine());
+
+    if(senha == 2002)
+    {
+       Console.WriteLine("Acesso Permitido");
+       break;
+    }
+    else{
+        Console.WriteLine("Senha Invalida");
+    }
+}
+
+
+
