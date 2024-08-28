@@ -1107,7 +1107,8 @@ int soma = somaDosNumeros.Sum();
 Console.WriteLine(soma);
 */
 
-
+/*
+// 1924
 int numeroDeCasos = int.Parse(Console.ReadLine());
 
 for(int i = 0; i < numeroDeCasos; i++)
@@ -1116,3 +1117,4 @@ for(int i = 0; i < numeroDeCasos; i++)
 }
 
 Console.WriteLine("Ciencia da Computacao");
+*/
