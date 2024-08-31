@@ -1174,4 +1174,13 @@ Console.WriteLine("{0} Multiplo(s) de 4", multiplosDe4);
 Console.WriteLine("{0} Multiplo(s) de 5", multiplosDe5);
 */
 
+/*
+string palavra = Console.ReadLine();
 
+if(palavra.Length < 10)
+{
+    Console.WriteLine("palavrinha");
+} else{
+    Console.WriteLine("palavrao");
+}
+*/
