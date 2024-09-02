@@ -1208,3 +1208,13 @@ for(int i = 0; i < numeroDeCasos; i++)
     }
 }
 */
+
+/*
+// 3091
+int A = int.Parse(Console.ReadLine());
+int B = int.Parse(Console.ReadLine());
+
+int resposta = A / B;
+
+Console.WriteLine("{0:F0}", resposta);
+*/
