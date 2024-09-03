@@ -1177,6 +1177,7 @@ Console.WriteLine("{0} Multiplo(s) de 5", multiplosDe5);
 */
 
 /*
+// 3303
 string palavra = Console.ReadLine();
 
 if(palavra.Length < 10)
@@ -1214,9 +1215,9 @@ for(int i = 0; i < numeroDeCasos; i++)
 int A = int.Parse(Console.ReadLine());
 int B = int.Parse(Console.ReadLine());
 
-int resposta = A / B;
+int resposta = A % B;
 
-Console.WriteLine("{0:F0}", resposta);
+Console.WriteLine("{0}", resposta);
 */
 
 /*
@@ -1226,4 +1227,14 @@ double raio = double.Parse(Console.ReadLine());
 double resultado = (2 * 3.14) * raio;
 
 Console.WriteLine("{0:F2}", resultado);
+*/
+
+/*
+// 3157
+string texto = Console.ReadLine();
+
+string novoTexto = "Nao se refuta ciencia com opiniao";
+texto = novoTexto;
+
+Console.WriteLine(texto);
 */
