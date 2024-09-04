@@ -1292,3 +1292,14 @@ int resultadoEmGramas = valorCurupira + valorBoitata + valorBoto + valorMapingua
 
 Console.WriteLine(resultadoEmGramas);
 */
+
+/*
+// 2987
+char letra = Console.ReadLine()[0];
+
+int posicao = letra - 'A' + 1;
+
+Console.WriteLine(posicao);
+*/
+
+
