@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renata\\Documents\\Projetos\\Exercicios Beecrowd\\Exercicios\\unknown_01\\unknown_01.csproj",
+      "projectUniqueName": "C:\\Users\\Renata\\Documents\\Projetos\\Exercicios Beecrowd\\Exercicios\\_01\\unknown_01.csproj",
       "projectName": "unknown_01",
-      "projectPath": "C:\\Users\\Renata\\Documents\\Projetos\\Exercicios Beecrowd\\Exercicios\\unknown_01\\unknown_01.csproj",
+      "projectPath": "C:\\Users\\Renata\\Documents\\Projetos\\Exercicios Beecrowd\\Exercicios\\_01\\unknown_01.csproj",
       "packagesPath": "C:\\Users\\Renata\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renata\\Documents\\Projetos\\Exercicios Beecrowd\\Exercicios\\unknown_01\\obj\\",
+      "outputPath": "C:\\Users\\Renata\\Documents\\Projetos\\Exercicios Beecrowd\\Exercicios\\_01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Renata\\AppData\\Roaming\\NuGet\\NuGet.Config",
